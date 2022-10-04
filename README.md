@@ -16,4 +16,4 @@ Solutions in Python for [DSA Cracker Sheet](https://drive.google.com/file/d/1FMd
 - [ ] Graph &mdash; 0 / 44
 - [ ] Trie &mdash; 0 / 6
 - [ ] Dynamic Programming &mdash; 0 / 60
-- [ ] Bit Manipulation &mdash; 0 / 10
+- [x] [Bit Manipulation](solutions/bit-manipulation) &mdash; 1 / 10
