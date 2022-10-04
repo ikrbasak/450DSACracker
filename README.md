@@ -2,7 +2,7 @@
 Solutions in Python for [DSA Cracker Sheet](https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view) by [Love Babbar](https://www.linkedin.com/in/love-babbar-38ab2887/). 
 
 ## Categories
-- [x] [Array](solutions/array) &mdash; 2 / 36
+- [x] [Array](solutions/array) &mdash; 5 / 36
 - [ ] Matrix &mdash; 0 / 10
 - [ ] String &mdash; 0 / 43
 - [ ] Search & Sort &mdash; 0 / 36
