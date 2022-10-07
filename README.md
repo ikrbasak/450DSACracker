@@ -4,7 +4,7 @@ Solutions in Python for [DSA Cracker Sheet](https://drive.google.com/file/d/1FMd
 ## Categories
 - [x] [Array](solutions/array) &mdash; 9 / 36
 - [ ] Matrix &mdash; 0 / 10
-- [x] [String](solutions/string) &mdash; 2 / 43
+- [x] [String](solutions/string) &mdash; 3 / 43
 - [ ] Search & Sort &mdash; 0 / 36
 - [ ] Linked List &mdash; 0 / 36
 - [ ] Binary Trees &mdash; 0 / 35
