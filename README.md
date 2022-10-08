@@ -5,7 +5,7 @@ Solutions in Python for [DSA Cracker Sheet](https://drive.google.com/file/d/1FMd
 - [x] [Array](solutions/array) &mdash; 9 / 36
 - [ ] Matrix &mdash; 0 / 10
 - [x] [String](solutions/string) &mdash; 3 / 43
-- [ ] Search & Sort &mdash; 0 / 36
+- [x] [Search & Sort](solutions/search-n-sort) &mdash; 1 / 36
 - [ ] Linked List &mdash; 0 / 36
 - [ ] Binary Trees &mdash; 0 / 35
 - [ ] BST &mdash; 0 / 22
